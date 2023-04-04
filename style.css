@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form {
+    max-width: 80ch;
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+label {
+    margin-bottom: .5rem;
+}
+
+label, 
+input,
+select, 
+textarea {
+    display: block;
+    width: 100%;
+}
+
+input, 
+textarea, 
+select {
+    padding: .5rem;
+    margin-bottom: 1rem;
+    font-size: 20px;
+}
+
+
+button {
+    font-size: 25px;
+}
